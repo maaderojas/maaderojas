@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maaderojas
 - 👀 I’m interested in environmental and economic issues such as land use, energy and ecosystem services valuation. 
-- 🌱 I’m currently learning R Shiny, Python and Arabic. 
+- 🌱 I’m currently learning R Shiny and Arabic. 
 - 💞️ I’m looking to collaborate on GIS / Ecosystem Services Valuation projects. 
 - 📫 You can reach me via e-mail : mar970913@gmail.com 
 
